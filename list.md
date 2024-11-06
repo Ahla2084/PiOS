@@ -42,7 +42,7 @@ To add your project to the list follow the instructions [here](/README.md)
 
 
 | **Title**     | **Description**                                            | **Category**         | **Programming Language/Framework** | **Link To  Repo** | **Link to Pi Brainstorm** | **Link to Testnet App** | **Link to Mainnet App** |
-|---------------|------------------------------------------------------------|----------------------|------------------------------------|-------------------|---------------------------|-------------------------|-------------------------|
+|Afica pi blog |Blog for Pi will encourage good contents creation, Pi Commuity Members will get paid for good bloog posts.|Social Media |PHP,HTML,Javascript,Mysql,CSS,Bootstrap|blog-for-pi|pi://brainstorm.pi/project/63c1166a76b89d678428e1c0|-------------------------|-------------------------|
 | (Example) | (Write a description here about what the code achieves) | (See options above) | (Ruby/Rails, Python/Django, JS/React, etc.)        | TBD             |                           | (When available)        | (When available)        |
 | Demo | This application showcases the authentication and payment functionalities of the Pi SDK. | Consumer Utility | Typescript/React, Node.js/Express, MongoDB | [demo](https://github.com/pi-apps/demo) | N/A | [pi://demo.pi](pi://demo.pi) | N/A |
 | Pi Commerce App | Mock Ups and Material for the Pi Commerce Hackathon in 2024 | Social Media | Figma | [pi-commerce-app](https://github.com/pi-apps/pi-commerce-app)|  | | |
